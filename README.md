@@ -46,11 +46,7 @@ Web Version
  1.Open the folder SmartStudentTimetableWeb.
  2.Double-click index.html or open it in a browser.
  3.Start adding subjects and manage your timetable.
-
-📸 Screenshots
-
-
-
+ 
 🛠️ Technologies Used
 
    . Java – Console application
