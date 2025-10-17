@@ -1,1 +1,2 @@
 Maths,Monday,09:00,10:00
+maths,mon,9.0,4
